@@ -51,7 +51,7 @@ const links = [
         <FileText />
       </>
     ),
-    href: "../src/assets/resume.pdf",
+    href: "/resume.pdf",
     style: "rounded-br-md",
     download: true,
   },
