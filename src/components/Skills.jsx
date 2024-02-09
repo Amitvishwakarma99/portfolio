@@ -41,8 +41,12 @@ function Skills() {
             lls
           </div>
         </div>
-        <p className="text-center text-gray-300">
-          Skills that i know and i have worked with
+        <p className="mx-2 text-center text-gray-300">
+          Below are the skills I've honed through hands-on experience and
+          dedicated learning. Each skill represents a tool in my arsenal, ready
+          to tackle challenges and bring ideas to life. From frontend
+          development to backend frameworks, I'm equipped to handle diverse
+          projects and deliver top-notch solutions.
         </p>
         <div className="grid w-full grid-cols-2 gap-16 px-12 py-8 text-center sm:grid-cols-3 sm:px-0">
           {skills.map(({ id, src, title, style, bgstyle }) => (

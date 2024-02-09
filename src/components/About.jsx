@@ -13,21 +13,35 @@ function About() {
           </span>{" "}
           Me
         </div>
-        <div className="text-center text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempora
-          odio labore commodi, consequatur possimus distinctio cupiditate
-          voluptate excepturi atque eaque veniam expedita! Dicta atque, minima
-          fugiat maxime ducimus nemo! Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Fugit hic fugiat labore architecto neque consectetur
-          repudiandae ducimus, iure, dolor enim id, sunt doloremque quisquam
-          amet ex aliquam quo nemo in.
+        <div className="mx-2 text-center text-gray-300">
+          Hey there! I'm Amit Vishwakarma, a passionate web developer who
+          thrives on crafting awesome web pages. As a postgraduate with a
+          Masters in Computer Application (MCA), I've honed my expertise in the
+          field. My coding journey revolves around HTML, CSS, and JavaScript,
+          and I've also delved into exciting tools like React JS, Tailwind CSS,
+          and Node JS with Express JS. Whether it's designing sleek interfaces
+          or adding interactive features, I find joy in bringing ideas to life
+          in the digital space.
         </div>
-        <div className="text-center text-gray-300">
+        <div className="mx-2 text-center text-gray-300">
           {" "}
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil
-          placeat atque, eius odit rerum harum, nesciunt eos, quis cum quibusdam
-          deserunt. Ducimus obcaecati voluptas est in repellendus a sapiente
-          rem!
+          You'll often find me immersed in my coding zone, fingers dancing
+          across the keyboard in VS Code, transforming concepts into reality one
+          line of code at a time. But it's not just about the technical
+          aspects—I believe in the power of user experience. Crafting intuitive
+          designs and ensuring seamless navigation are my secret ingredients for
+          creating impactful web solutions.
+        </div>
+        <div className="mx-2 text-center text-gray-300">
+          {" "}
+          Learning is my compass, and I firmly believe in taking the reins to
+          teach myself new skills. Challenges fuel my growth, and I relish
+          pushing my boundaries independently. Beyond the screen, I find solace
+          in music—I strum my guitar and sing to unwind. Fluent in both Hindi
+          and English, I cherish connecting with people from diverse backgrounds
+          and cultures. For me, web development isn't just a job; it's a
+          creative outlet and a way to make a positive impact in the vast
+          digital realm.
         </div>
       </div>
     </div>

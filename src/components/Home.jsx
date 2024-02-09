@@ -17,11 +17,13 @@ const Home = () => {
               Web Developer
             </span>
           </h2>
-          <p className=" w-10/12 text-gray-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
-            explicabo aliquam quo repellat rem unde. Earum, sapiente? Velit
-            laboriosam necessitatibus cumque nemo neque asperiores quasi tempore
-            corporis, facilis sit facere.
+          <p className=" w-10/12 pt-2 text-gray-300">
+            "Dedicated to crafting digital masterpieces, I bring creativity,
+            passion, and precision to every project. With a love for coding and
+            an eye for detail, I transform ideas into captivating online
+            experiences. From sleek designs to seamless functionality, I strive
+            to create websites that not only look great but also deliver
+            exceptional user experiences."
           </p>
           <Link
             to="Projects"

@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div
       name="Contact"
-      className="w-full bg-gradient-to-b from-gray-900 via-slate-800 to-gray-800 py-10 "
+      className="mb-20 w-full bg-gradient-to-b from-gray-900 via-slate-800 to-gray-800 py-10 "
     >
       <div className="mx-auto flex  max-w-full flex-col items-center justify-center gap-3  lg:max-w-5xl">
         <div>
@@ -17,9 +17,11 @@ function Contact() {
             Me
           </div>
         </div>
-        <p className="pb-4 text-center  text-gray-300">
+        <p className="mx-2 pb-4 text-center  text-gray-300">
           {" "}
-          You can contact me with these links or write an email to me
+          You can find all my social media links below for a quick chat or
+          connect with me via email using the form provided. I'm just a message
+          away, so don't hesitate to reach out!
         </p>
         <div className="flex w-full flex-col items-center  sm:flex-row sm:justify-around ">
           <div className="pb-4">
@@ -49,8 +51,8 @@ function Contact() {
               preventDefault();
             }}
           >
-            <p className="py-4 text-center text-2xl font-semibold text-cwhite">
-              Write a mail to me
+            <p className="pb-2 pt-4 text-center text-2xl font-semibold text-cwhite">
+              Get in touch
             </p>
             <input
               type="text"

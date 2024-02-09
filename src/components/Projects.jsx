@@ -40,13 +40,19 @@ function Projects() {
     >
       <div className=" mx-auto flex  max-w-full flex-col items-center justify-center gap-3  lg:max-w-5xl">
         <div>
-          <div className="group py-10 text-4xl sm:text-6xl">
+          <div className="group py-2 text-4xl sm:text-6xl">
             <span className="font-semibold text-cyellow duration-300 group-hover:mr-4">
               Pro
             </span>
             jects
           </div>
         </div>
+        <p className="mx-2 pb-4 text-center text-gray-300">
+          Below are some of the projects I've worked on, showcasing my skills
+          and creativity in web development. Each project represents a unique
+          challenge and a chance to innovate. Take a look and explore the
+          digital world I've crafted!
+        </p>
         <div className="grid   gap-8 px-12 sm:grid-cols-2 sm:px-0 md:grid-cols-3">
           {projects.map((project) => (
             <div
