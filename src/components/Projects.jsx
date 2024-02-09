@@ -29,8 +29,8 @@ function Projects() {
       title2: "folio",
       image: portfolio,
       skills: "ReactJS, Tailwind CSS",
-      demo: "https://weatheramt.netlify.app/",
-      github: "https://github.com/Amitvishwakarma99/weather_app",
+      demo: "https://amitv.netlify.app/",
+      github: "https://github.com/Amitvishwakarma99/portfolio",
     },
   ];
   return (
