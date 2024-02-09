@@ -1,13 +1,14 @@
 import React from "react";
+import myimg from "../assets/myimg.png";
 
 const Avatar = () => {
   return (
     <div>
-      <div className="bg-cyellow w-fit h-fit  rounded-full ">
+      <div className="h-fit w-fit rounded-full  bg-cyellow ">
         <img
-          src="../src/assets/img.png"
-          alt=""
-          className="mix-blend-darken hover:scale-[0.98] duration-300   bg-cyellow rounded-full rotate-[23deg]"
+          src={myimg}
+          alt="myimg"
+          className="rotate-[23deg] rounded-full bg-cyellow   mix-blend-darken duration-300 hover:scale-[0.98]"
         />
       </div>
     </div>
