@@ -10,7 +10,7 @@ const links = [
         <Linkedin />
       </>
     ),
-    href: "https://www.linkedin.com/in/amit-99-vishwakarma/",
+    href: "https://www.linkedin.com/in/itsamitv/",
     style: "rounded-tr-md",
   },
   {
@@ -21,7 +21,7 @@ const links = [
         <Github />
       </>
     ),
-    href: "https://github.com/amitvishwakarma99",
+    href: "https://github.com/itsamitv",
   },
   {
     id: 3,

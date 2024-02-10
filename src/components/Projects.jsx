@@ -12,7 +12,7 @@ function Projects() {
       image: weatherapp,
       skills: "HTML, CSS, JavaScript",
       demo: "https://weatheramt.netlify.app/",
-      github: "https://github.com/Amitvishwakarma99/weather_app",
+      github: "https://github.com/itsamitv/weather_app",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ function Projects() {
       image: todoapp,
       skills: "ReactJS, Tailwind CSS",
       demo: "https://todolosto.netlify.app/",
-      github: "https://github.com/Amitvishwakarma99/todo",
+      github: "https://github.com/itsamitv/todo",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ function Projects() {
       image: portfolio,
       skills: "ReactJS, Tailwind CSS",
       demo: "https://amitv.netlify.app/",
-      github: "https://github.com/Amitvishwakarma99/portfolio",
+      github: "https://github.com/itsamitv/portfolio",
     },
   ];
   return (
