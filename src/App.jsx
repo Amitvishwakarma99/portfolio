@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 const App = () => {
   return (
     <>
-      <div className="w-full overflow-auto bg-gray-800 text-cwhite">
+      <div className=" w-full overflow-auto bg-gray-800 text-cwhite">
         <NavBar />
         <Home />
         <About />
