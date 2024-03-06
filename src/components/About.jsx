@@ -18,10 +18,9 @@ function About() {
           thrives on crafting awesome web pages. As a postgraduate with a
           Masters in Computer Application (MCA), I've honed my expertise in the
           field. My coding journey revolves around HTML, CSS, and JavaScript,
-          and I've also delved into exciting tools like React JS, Tailwind CSS,
-          and Node JS with Express JS. Whether it's designing sleek interfaces
-          or adding interactive features, I find joy in bringing ideas to life
-          in the digital space.
+          and I've also delved into exciting tools like React JS and Tailwind
+          CSS, . Whether it's designing sleek interfaces or adding interactive
+          features, I find joy in bringing ideas to life in the digital space.
         </div>
         <div className="mx-2 text-center text-gray-300">
           {" "}

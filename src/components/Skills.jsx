@@ -18,14 +18,14 @@ function Skills() {
       title: "Tailwind",
       style: "  shadow-teal-500",
     },
-    {
-      id: 6,
-      src: expressjsimg,
-      title: "ExpressJS",
-      style: "  shadow-white",
-      bgstyle: " bg-white rounded-full",
-    },
-    { id: 7, src: nodejsimg, title: "NodeJs", style: " shadow-green-600" },
+    // {
+    //   id: 6,
+    //   src: expressjsimg,
+    //   title: "ExpressJS",
+    //   style: "  shadow-white",
+    //   bgstyle: " bg-white rounded-full",
+    // },
+    // { id: 7, src: nodejsimg, title: "NodeJs", style: " shadow-green-600" },
   ];
   return (
     <div
